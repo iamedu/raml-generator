@@ -2,6 +2,7 @@
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :dependencies [[org.clojure/clojure "1.6.0"]
+                 [org.clojure/tools.cli "0.3.1"]
                  [org.raml/raml-parser "0.8.5"]
                  [com.github.jknack/handlebars "1.3.1"]]
   :repositories [["mulesoft-releases" "https://repository-master.mulesoft.org/releases/"]]
